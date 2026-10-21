@@ -9,10 +9,6 @@ The platform is being designed with two connected experiences:
 - **Learning Mode** — understand algorithms, registers, flags, branches, memory, and instruction execution through guided visual exercises.
 - **Research Mode** — study compiler output, compare equivalent implementations, verify correctness, examine experimental results, and document performance findings.
 
-> **Project status: Research and architecture planning.** The existing public repository, [Assembly-Complier-Reference](https://github.com/Andrez-Dev01/Assembly-Complier-Reference), currently contains a conceptual README, not a working simulator, benchmarking service, or hosted web application. Everything below is **proposed** unless explicitly described as existing. This document is a replacement README draft; it has **not been published to GitHub**.
-
-> **Scope clarification:** The original project emphasized x86-64 assembly alongside C++, Python, and Go. Our academic MASM + Irvine32 experiments use **32-bit x86** on Windows. The expanded lab will document the two targets separately rather than treating them as identical environments.
-
 ## Table of contents
 
 - [Why this project exists](#why-this-project-exists)
